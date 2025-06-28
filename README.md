@@ -4,7 +4,8 @@ Implementation of SimpleSwap
 🚀 SimpleSwap
 📄 Description
 
-SimpleSwap is a minimal Solidity smart contract implementing a two-token liquidity pool for swapping and liquidity management. 
+SimpleSwap is a minimal Solidity smart contract implementing a two-token liquidity pool 
+for swapping and liquidity management. 
 It allows users to:
 
     ➕ Add liquidity by depositing two ERC-20 tokens in proportion.
